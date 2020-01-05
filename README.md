@@ -19,3 +19,5 @@ O jogador escolhe a linha e a coluna da peça que vai ser movimentada e depois e
 Fazer uma interface para o jogo;
 Utilizar conceitos de Programação orientada a objetos;
 Melhorar o tratamento de erros.
+
+### Créditos: [Repl.it - Python3](https://repl.it/languages/python3)
