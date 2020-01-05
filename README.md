@@ -20,4 +20,4 @@ Fazer uma interface para o jogo;
 Utilizar conceitos de Programação orientada a objetos;
 Melhorar o tratamento de erros.
 
-### Créditos: [Repl.it - Python3](https://repl.it/languages/python3)
+###### Créditos - fotos: [Repl.it - Python3](https://repl.it/languages/python3)
